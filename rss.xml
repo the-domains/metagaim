@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MetaGaim]]></title>
+        <description><![CDATA[MetaGaim]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 09:29:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Meta Gaim]]></title>
+            <description><![CDATA[<article><h1>Welcome to Meta Gaim</h1><p>Tamagotchi for video games, Let it watch you play, train it, and soon it will be wise enough to play along side you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3df6d7a6ce6e95a9ef6fd87bc9fed9ea43a03009.png"></article>]]></description>
+            <link>undefinedwelcome-to-meta-gaim/index.html</link>
+            <guid isPermaLink="false">15b3e97a-4873-4864-9d85-6e93ec91e9af</guid>
+            <pubDate>Sun, 03 Jan 2016 09:29:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
